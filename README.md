@@ -14,9 +14,9 @@ Text Citation:
 
 BibTeX Citation:
 
->@MISC{ringamp-survey-2021,  
+>@MISC{ringamp-survey,  
 >author = {B. {Hershberg}},  
->title = {{Ringamp Survey 2012-2021}},  
+>title = {{Ringamp Survey 2012-2023}},  
 >note = {[Online]. Available: \url{https://github.com/bhershberg/RingampSurvey}},}  
 
 # Data Sources
