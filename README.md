@@ -18,7 +18,7 @@ BibTeX Citation:
 >  author = {B. {Hershberg}},  
 >  title = {{Ringamp Survey 2012-2023}},  
 >  note = {[Online]. Available: \url{https://github.com/bhershberg/RingampSurvey}},
->}  
+>  }  
 
 # Data Sources
 
