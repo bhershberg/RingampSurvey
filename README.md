@@ -1,3 +1,5 @@
+![Schreier FoM plot](https://github.com/bhershberg/RingampSurvey/blob/main/plot/FoMs_plot.png?raw=true)
+
 # Ringamp Survey
 Ring amplifiers are proving to be a useful tool for scalable switched capacitor signal processing. They continue to expand their application scope, and they regularly break records in power efficiency across the full spectrum of speeds and accuracies.
 
