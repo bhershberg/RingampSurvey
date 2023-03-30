@@ -7,4 +7,4 @@ To better track the implications of this, to make comparison and reporting easy,
 
 # Data Sources
 
-Some of the analysis pulls data from the ADC performance survey found at https://github.com/bmurmann/ADC-survey. Also some of the jupyter notebooks in this repo use code copied from that repo. Thank you to Boris Murmann and his team for providing that resource to the community.
+Some of the plots overlay ringamp publications on top of data from the ADC performance survey found at https://github.com/bmurmann/ADC-survey. In addition some of the jupyter notebooks in this repo use code copied from that repo. Thank you to Boris Murmann and his team for providing that resource to the community.
