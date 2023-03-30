@@ -7,4 +7,4 @@ To better track the implications of this, to make comparison and reporting easy,
 
 # Data Sources
 
-Some of the post-processing in this repo pulls from the ISSCC & VLSI ADC survey at https://github.com/bmurmann/ADC-survey. Thanks to Boris Murmann and his group for maintaining that.
+Some of the jupyter notbooks in this repo use code copied from the notebooks in the ADC performance survey found at https://github.com/bmurmann/ADC-survey.
